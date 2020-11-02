@@ -1,0 +1,24 @@
+[
+  {
+    "pkg": "tachiyomix.mangadex.es",
+    "apk": "tachiyomi-es-mangadex-v1.0.44.apk",
+    "name": "MangaDex",
+    "id": 6400665728063187402,
+    "lang": "es",
+    "code": 44,
+    "version": "1.0.44",
+    "description": "Highest quality and scanlator-approved source",
+    "nsfw": false
+  },
+  {
+    "pkg": "tachiyomix.mangadex.en",
+    "apk": "tachiyomi-en-mangadex-v1.0.44.apk",
+    "name": "MangaDex",
+    "id": 2499283573021220255,
+    "lang": "en",
+    "code": 44,
+    "version": "1.0.44",
+    "description": "Highest quality and scanlator-approved source",
+    "nsfw": false
+  }
+]
